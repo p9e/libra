@@ -1,17 +1,5 @@
-# [cuerpo <br> body](index.html)
+# [libra traits introduction](https://p9e.page/libra)
 
-## [traducir <br> translate](../../issues/new)
+[chicago ooze remix](https://s9a.page/ooze)
 
-### `es-CO`
-
-> Mi cuerpo NO quiere tu opinión.
-
-### `en-US`
-
-> My body doesn't want your opinion.
-
-
-### `pt-BR`
-
-> Meu corpo não quer sua opinião
-
+p.s. [libra is our venus sign](https://p9e.page/seahorse)

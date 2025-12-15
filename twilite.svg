@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 800 800">
+  <title>venus(ish)</title>
+  <rect fill="#b2d" width="100%" height="100%" />
+  <circle r="250" fill="#dca" cx="400" cy="400" />
+</svg>
