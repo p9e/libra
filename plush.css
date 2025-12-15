@@ -1,0 +1,55 @@
+:root {
+  font-family: sans-serif;
+  font-size: calc(1em + 2vmin + 3vmax);
+}
+
+:any-link {
+  color: inherit;
+  font-size: max(1em, 44px);
+}
+
+:focus {
+  outline-color: currentColor;
+  outline-style: dashed;
+  outline-width: thick;
+}
+
+:any-link:hover {
+  text-decoration-style: double;
+}
+
+body {
+  box-sizing: border-box;
+  margin: auto;
+  padding: 1ex 2ch;
+}
+
+nav {
+  margin: auto;
+  padding-block-end: 1rem;
+}
+
+li:not(:focus-within) {
+  list-style-type: circle;
+}
+
+i {
+  font-family: cursive;
+}
+
+hr {
+  border: 0;
+  border-top: thick dotted;
+}
+
+h1 {
+  font-size: 1.618em;
+  font-weight: unset;
+  margin: 0;
+}
+
+footer {
+  align-items: flex-start;
+  display: flex;
+  flex-flow: column;
+}
